@@ -18,3 +18,11 @@
 <a href="https://discord.com/users/939738063687540766"><img alt="Gmail" src="https://img.shields.io/badge/Discord-565fff?style=flat&logo=discord&logoColor=ffffff" /></a> &nbsp;
 <a href="https://instagram.com/raineorj"><img src="https://img.shields.io/badge/@raineorj-E3467A?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
+### 📈 Github Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=raineorj&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineorj&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+</div>
+
