@@ -3,7 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=raineorj&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### 🛠 &nbsp;Software Languages
+### 📜 &nbsp;Software Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 📫 &nbsp; How to reach me:
+### 📩 &nbsp; How to reach me:
 <a href="raineorj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://discord.com/users/939738063687540766"><img alt="Gmail" src="https://img.shields.io/badge/Discord-5e5e5e?style=flat&logo=discord&logoColor=565fff" /></a> &nbsp;
 <a href="https://instagram.com/raineorj"><img src="https://img.shields.io/badge/@raineorj-E3467A?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
