@@ -1,9 +1,9 @@
-### Hello I'm berk
+### 💡 Hello I'm berk
 ![version :17.08.2021](https://img.shields.io/badge/version-27.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=raineorj&color=a169ff)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### 📜 &nbsp;Software Languages
+### 📜 &nbsp;Languages;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
