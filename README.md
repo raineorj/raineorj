@@ -21,6 +21,5 @@
 ### 📈 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=raineorj&show_icons=true&theme=dark&hide_border=true" width="%75" height="150px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raineorj&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%75" height="75%">
 </div>
 
