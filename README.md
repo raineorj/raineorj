@@ -15,6 +15,6 @@
 
 ### 📩 &nbsp; How to reach me:
 <a href="raineorj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://discord.com/users/939738063687540766"><img alt="Gmail" src="https://img.shields.io/badge/Discord-5e5e5e?style=flat&logo=discord&logoColor=565fff" /></a> &nbsp;
+<a href="https://discord.com/users/939738063687540766"><img alt="Gmail" src="https://img.shields.io/badge/Discord-565fff?style=flat&logo=discord&logoColor=fffff" /></a> &nbsp;
 <a href="https://instagram.com/raineorj"><img src="https://img.shields.io/badge/@raineorj-E3467A?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
