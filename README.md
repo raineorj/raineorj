@@ -1,4 +1,4 @@
-### Hello I Am Berk
+### Selam ben berk!
 ![version :17.08.2021](https://img.shields.io/badge/version-27.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=raineorj&color=red)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
