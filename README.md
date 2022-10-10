@@ -1,5 +1,5 @@
 ### Hello I Am Berk
-![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
+![version :17.08.2021](https://img.shields.io/badge/version-27.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=raineorj&color=blue)&nbsp;
 [![GitHub raineorj](https://img.shields.io/github/followers/raineorj?label=follow&style=social)](https://github.com/acarfx)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
