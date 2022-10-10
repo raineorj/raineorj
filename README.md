@@ -1,5 +1,5 @@
 ### Hello I'm berk
-![version :17.08.2021](https://img.shields.io/badge/version-27.10.2021-informational) &nbsp;
+![version :17.08.2021](https://img.shields.io/badge/version-27.10.2021-informational&color=a169ff) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=raineorj&color=a169ff)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
