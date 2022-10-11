@@ -20,6 +20,6 @@
 
 ### 📈 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=raineorj&show_icons=true&theme=dark&hide_border=true" width="%75" height="150px">
+<img src="https://github-readme-stats.vercel.app/api?username=raineorj&show_icons=true&theme=dark&hide_border=true" width="%80" height="150px">
 </div>
 
