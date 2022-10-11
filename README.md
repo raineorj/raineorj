@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### 📩 &nbsp; How to reach me:
+### 📩 &nbsp; Contact me:
 <a href="raineorj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ff2125?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://discord.com/users/939738063687540766"><img alt="Gmail" src="https://img.shields.io/badge/Discord-565fff?style=flat&logo=discord&logoColor=ffffff" /></a> &nbsp;
 <a href="https://instagram.com/raineorj"><img src="https://img.shields.io/badge/@raineorj-ff1b4d?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
