@@ -15,7 +15,7 @@
 <a href="raineorj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ff2125?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://discord.com/users/939738063687540766"><img alt="Gmail" src="https://img.shields.io/badge/Discord-565fff?style=flat&logo=discord&logoColor=ffffff" /></a> &nbsp;
 <a href="https://instagram.com/raineorj"><img src="https://img.shields.io/badge/@raineorj-ff1b4d?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/bberkistan"><img src="https://img.shields.io/badge/@bberkistan-ffbb1b?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/bberkistan"><img src="https://img.shields.io/badge/@bberkistan-ffd41b?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 ### 📈 Github Stats
