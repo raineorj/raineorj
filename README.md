@@ -1,4 +1,4 @@
-### 💡 Hello I'm berk
+### 💡 Hello I'm rainé
 ![version :17.08.2021](https://img.shields.io/badge/version-27.10.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=raineorj&color=dc143c)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -15,7 +15,7 @@
 <a href="raineorj@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ff2125?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://discord.com/users/1002949120329269248"><img alt="Gmail" src="https://img.shields.io/badge/Discord-565fff?style=flat&logo=discord&logoColor=ffffff" /></a> &nbsp;
 <a href="https://instagram.com/raineorj"><img src="https://img.shields.io/badge/@raineorj-ff1b4d?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://instagram.com/berktanrikul"><img src="https://img.shields.io/badge/@berktanrikul-ff1b4d?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/growspor"><img src="https://img.shields.io/badge/@growspor?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 ### 📈 Github Stats
